@@ -1,0 +1,52 @@
+17:54:16. 116 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+17:54:16. 140 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+17:54:16. 607 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+17:54:17. 052 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+17:55:40. 288 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+17:55:40. 323 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+17:55:40. 841 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+17:55:41. 297 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+17:55:42. 656 [main] INFO  testCases.TC001_RegistrationTest - Finished the TC001_RegistrationTest Execution
+17:56:54. 899 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+17:56:54. 925 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+17:56:55. 404 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+17:56:55. 814 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+17:56:57. 227 [main] ERROR testCases.TC001_RegistrationTest - Test Failed
+17:56:57. 227 [main] DEBUG testCases.TC001_RegistrationTest - Debug logs
+00:03:03. 350 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:03:03. 375 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:03:03. 858 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:03:04. 249 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:03:05. 704 [main] ERROR testCases.TC001_RegistrationTest - Test Failed
+00:03:05. 705 [main] DEBUG testCases.TC001_RegistrationTest - Debug logs
+00:03:56. 114 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:03:56. 239 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:03:56. 513 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:03:57. 111 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:03:58. 350 [main] INFO  testCases.TC001_RegistrationTest - ****Finished the TC001_RegistrationTest Execution****
+00:10:32. 172 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:10:32. 233 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:10:32. 384 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:10:32. 796 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:10:33. 967 [main] INFO  testCases.TC001_RegistrationTest - ****Finished the TC001_RegistrationTest Execution****
+00:12:45. 559 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:12:45. 586 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:12:45. 837 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:12:46. 268 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:12:47. 729 [main] INFO  testCases.TC001_RegistrationTest - ****Finished the TC001_RegistrationTest Execution****
+00:12:52. 880 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:12:52. 881 [main] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:12:53. 015 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:12:53. 392 [main] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:12:54. 792 [main] INFO  testCases.TC001_RegistrationTest - ****Finished the TC001_RegistrationTest Execution****
+00:14:44. 547 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:14:44. 608 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:14:45. 155 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:14:45. 618 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:14:47. 376 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTest - ****Finished the TC001_RegistrationTest Execution****
+00:14:48. 712 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****
+00:14:48. 714 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - Clicking on MyAccount
+00:14:48. 854 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+00:14:49. 276 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - Entering the required details
+00:14:50. 598 [TestNG-tests-2] INFO  testCases.TC001_RegistrationTest - ****Finished the TC001_RegistrationTest Execution****
+18:14:45. 293 [main] INFO  testCases.TC001_RegistrationTest - ****Starting the TC001_RegistrationTest Execution****

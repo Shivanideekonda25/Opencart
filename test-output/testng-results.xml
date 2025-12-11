@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-07T17:04:03 IST" name="Suite" finished-at="2025-12-07T17:04:21 IST" duration-ms="17961">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_RegistrationTest.Registration()[pri:0, instance:testCases.TC001_RegistrationTest@79079097]" name="Registration" class="testCases.TC001_RegistrationTest"/>
+        <method signature="TC002_LoginPage.HomepageLogin()[pri:1, instance:testCases.TC002_LoginPage@302552ec]" name="HomepageLogin" class="testCases.TC002_LoginPage"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC001_RegistrationTest.Registration()[pri:0, instance:testCases.TC001_RegistrationTest@79079097]" name="Registration" class="testCases.TC001_RegistrationTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC002_LoginPage.HomepageLogin()[pri:1, instance:testCases.TC002_LoginPage@302552ec]" name="HomepageLogin" class="testCases.TC002_LoginPage"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-12-07T17:04:03 IST" name="Linux-Test" finished-at="2025-12-07T17:04:21 IST" duration-ms="17961">
+      <class name="testCases.TC001_RegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_RegistrationTest@79079097]" started-at="2025-12-07T17:04:04 IST" name="setUp" finished-at="2025-12-07T17:04:10 IST" duration-ms="6791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Registration()[pri:0, instance:testCases.TC001_RegistrationTest@79079097]" started-at="2025-12-07T17:04:10 IST" name="Registration" finished-at="2025-12-07T17:04:13 IST" duration-ms="2473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_RegistrationTest@79079097]" started-at="2025-12-07T17:04:13 IST" name="tearDown" finished-at="2025-12-07T17:04:14 IST" duration-ms="1034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_RegistrationTest -->
+      <class name="testCases.TC002_LoginPage">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginPage@302552ec]" started-at="2025-12-07T17:04:14 IST" name="setUp" finished-at="2025-12-07T17:04:18 IST" duration-ms="4520" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomepageLogin()[pri:1, instance:testCases.TC002_LoginPage@302552ec]" started-at="2025-12-07T17:04:18 IST" name="HomepageLogin" finished-at="2025-12-07T17:04:20 IST" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginPage@302552ec]" started-at="2025-12-07T17:04:20 IST" name="tearDown" finished-at="2025-12-07T17:04:21 IST" duration-ms="1051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_LoginPage -->
+    </test> <!-- Linux-Test -->
+  </suite> <!-- Suite -->
+</testng-results>
